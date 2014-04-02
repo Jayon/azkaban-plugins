@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib28" level="project" />
+    <orderEntry type="library" name="viewer" level="project" />
+    <orderEntry type="library" name="lib21" level="project" />
+    <orderEntry type="library" name="lib3" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="extlib1" level="project" />
+    <orderEntry type="library" name="extlib" level="project" />
+    <orderEntry type="library" name="lib32" level="project" />
+    <orderEntry type="library" name="lib22" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="lib24" level="project" />
+    <orderEntry type="library" name="lib15" level="project" />
+    <orderEntry type="library" name="lib19" level="project" />
+    <orderEntry type="library" name="lib37" level="project" />
+    <orderEntry type="library" name="azkaban-hadoopsecuritymanager-2.5.0-rc3" level="project" />
+    <orderEntry type="library" name="lib27" level="project" />
+    <orderEntry type="library" name="lib34" level="project" />
+    <orderEntry type="library" name="lib35" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="lib31" level="project" />
+    <orderEntry type="library" name="lib23" level="project" />
+    <orderEntry type="library" name="lib30" level="project" />
+    <orderEntry type="module" module-name="hadoopsecuritymanager" />
+  </component>
+</module>
+

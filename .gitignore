@@ -1,4 +1,6 @@
 dist/
+out/
+.idea/
 azkaban-hadoopsecuritymanager-*.jar
 azkaban-pigvisualizer-*.jar
 azkaban-jobtype-*.jar
